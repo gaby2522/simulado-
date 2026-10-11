@@ -1,0 +1,6 @@
+{
+  "name": "Simulados Cesgranrio - Nível Médio Adm",
+  "description": "Simulados completos por matéria no formato e regras da banca Cesgranrio com questões reais de provas oficiais para Nível Médio Administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
